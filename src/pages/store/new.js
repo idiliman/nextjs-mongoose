@@ -79,6 +79,7 @@ function store() {
             placeholder="Store Name"
           />
         </div>
+        
         <div>
           <input
             onChange={inputAction}
